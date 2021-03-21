@@ -23,5 +23,5 @@ This project uses the data above to identify ideal vacations spots by identifyin
 
 
  ![Vizualization Preview](charts/regression_T_b.png)
-
-
+ ![Vizualization Preview](charts/regression_Humidity (%)_b.png)
+ ![Vizualization Preview](charts/regression_W_n.png)
